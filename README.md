@@ -1,4 +1,5 @@
 # Multi-Modal Perception
+<img width="1921" height="976" alt="test_result" src="https://github.com/user-attachments/assets/a172d3b0-f5f1-46a6-8b2b-712604f69291" />
 
 A Python-based robot perception system combining multi-modal tactile sensing with force/brake control. This project demonstrates perception model training and constraint-aware force control for robotic applications.
 
